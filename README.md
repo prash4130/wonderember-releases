@@ -2,8 +2,6 @@
 
 A handwriting app for learning. Write and draw on your iPad with Apple Pencil. Claude reads the page and answers in red handwriting. The Mac runs the app. The iPad opens it in Safari.
 
-This is the first public build. It's a beta.
-
 **[Download the latest release](https://github.com/prash4130/wonderember-releases/releases/latest)**
 
 ## Requirements
@@ -20,13 +18,17 @@ This is the first public build. It's a beta.
 3. Open Wonderember. It checks for Claude Code and tells you if something is missing.
 4. Scan the QR code on your Mac with your iPad camera. The page opens in Safari.
 
+## Beta builds
+
+Each beta build works for 30 days from the day it was built. After that, Claude stops replying, but your pages stay on your Mac and nothing is deleted. Download the newest build and it opens the same pages where you left off.
+
 ## Verify the download
 
 ```
-shasum -a 256 Wonderember-0.1.0.dmg
+shasum -a 256 Wonderember-0.1.1.dmg
 ```
 
-The checksum for v0.1.0 is `1e9a7626f5c59cc0969ecf4e46b612f92fce9a03f84d3524c5271cbe20bfad03`. A matching SHA-256 file is attached to each release.
+The expected SHA-256 hash is published in the `.sha256` file attached to each release.
 
 ## Help
 
