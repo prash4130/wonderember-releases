@@ -25,7 +25,7 @@ Each beta build works for 30 days from the day it was built. After that, Claude 
 ## Verify the download
 
 ```
-shasum -a 256 Wonderember-0.1.1.dmg
+shasum -a 256 Wonderember-0.1.2.dmg
 ```
 
 The expected SHA-256 hash is published in the `.sha256` file attached to each release.
