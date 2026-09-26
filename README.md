@@ -1,4 +1,4 @@
-# Wonderember
+# WonderEmber
 
 A handwriting app for learning. Write and draw on your iPad with Apple Pencil. Claude reads the page and answers in red handwriting. The Mac runs the app. The iPad opens it in Safari.
 
@@ -13,9 +13,9 @@ A handwriting app for learning. Write and draw on your iPad with Apple Pencil. C
 
 ## Install
 
-1. Open the DMG and drag Wonderember into your Applications folder.
+1. Open the DMG and drag WonderEmber into your Applications folder.
 2. Open Terminal and run `claude` to make sure Claude Code is installed and you're signed in. If you don't have it yet, see [Anthropic's install instructions](https://code.claude.com/docs/en/setup).
-3. Open Wonderember. It checks for Claude Code and tells you if something is missing.
+3. Open WonderEmber. It checks for Claude Code and tells you if something is missing.
 4. Scan the QR code on your Mac with your iPad camera. The page opens in Safari.
 
 ## Beta builds
