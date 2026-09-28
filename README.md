@@ -20,12 +20,14 @@ A handwriting app for learning. Write and draw on your iPad with Apple Pencil. C
 
 ## Beta builds
 
-Each beta build works for 30 days from the day it was built. After that, Claude stops replying, but your pages stay on your Mac and nothing is deleted. Download the newest build and it opens the same pages where you left off.
+The current build has no time limit. Claude keeps replying for as long as you use it.
+
+Builds 0.1.2 and earlier stop replying 30 days after they were built. Your pages stay on your Mac and nothing is deleted. Download the newest build and it opens the same pages where you left off.
 
 ## Verify the download
 
 ```
-shasum -a 256 Wonderember-0.1.2.dmg
+shasum -a 256 Wonderember-0.1.3.dmg
 ```
 
 The expected SHA-256 hash is published in the `.sha256` file attached to each release.
