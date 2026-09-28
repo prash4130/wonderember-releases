@@ -27,7 +27,7 @@ Builds 0.1.2 and earlier stop replying 30 days after they were built. Your pages
 ## Verify the download
 
 ```
-shasum -a 256 Wonderember-0.1.3.dmg
+shasum -a 256 Wonderember-0.1.4.dmg
 ```
 
 The expected SHA-256 hash is published in the `.sha256` file attached to each release.
